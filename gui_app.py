@@ -3,7 +3,6 @@ Desktop GUI Control Dashboard for Smart Traffic Management System.
 Built with Tkinter (Python standard library, no extra install needed).
 Allows one-click control, SUMO GUI launching, live status, and benchmark viewing.
 """
-
 import os
 import sys
 import threading
