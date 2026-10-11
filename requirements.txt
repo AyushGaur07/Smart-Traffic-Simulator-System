@@ -1,0 +1,7 @@
+traci>=1.27.0
+sumolib>=1.27.0
+torch>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+pymysql>=1.1.0
+python-dotenv>=1.0.0

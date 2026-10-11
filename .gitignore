@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.pyo
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables & secrets
+.env
+*.env.local
+
+# Results & Databases
+results/*.sqlite3
+results/*.csv
+results/*.png
+TrafficControl/results/
+*.sqlite3
+
+# Models & Checkpoints
+checkpoints/
+*.pth
+*.pt
+
+# SUMO temporary / output files
+*.log
+*.sumocfg.bak

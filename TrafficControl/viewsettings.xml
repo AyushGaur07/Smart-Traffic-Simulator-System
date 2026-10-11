@@ -1,0 +1,15 @@
+<viewsettings>
+    <scheme name="real world">
+        <opengl dither="0" fps="0"/>
+        <background backgroundColor="240,240,240" showGrid="0"/>
+        <edges laneEdgeMode="0" laneShowBorders="1" showLinkDecals="1" showRails="1" edgeName_show="0" laneName_show="0"/>
+        <junctions draw="1" drawCrossingsAndWalkingareas="1" showJunctionName="0" showTLSLaser="1" showTLSLinkMarkers="1">
+            <tlsSize value="4.0"/>
+        </junctions>
+        <vehicles carColorMode="uniform" vehicleQuality="2" vehicleSize="1.5">
+            <color value="yellow"/>
+        </vehicles>
+    </scheme>
+    <viewport zoom="450" x="200" y="200"/>
+    <delay value="100"/>
+</viewsettings>
